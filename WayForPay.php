@@ -382,5 +382,5 @@ class WayForPay
                 throw new InvalidArgumentException('Unknown transaction type');
         }
     }
-
 }
+?>
